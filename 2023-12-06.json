@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Colon",
+  "age": 21,
+  "address": {
+    "street": "Ikivo Ridge",
+    "city": "Nirkadeh",
+    "state": "AL",
+    "zip": "12291"
+  },
+  "contact": {
+    "phone": "(915) 851-1828",
+    "servicePhone": "800327895"
+  },
+  "birthday": "2000-12-19T04:45:18.004Z",
+  "ip": "32.104.150.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Camhojce sajuh uzeveb do liti etijef hivik von unalitmak wacarwof hawa lonozal lopusa jipkuwuc jatiz. Fapultuh fif kiw tas nindu ucliso kuptuh efopo efi luja he abe pir gibum pezapek bomalega mifkiepi. Ojakova ba roipiwiz wan luvufa opinwak de nuwikjo wu monitgin ino neatuhic.",
+    "bio": "Legponot fut rogsepiku jogtanu dekfa sana zo ov joeso bi du firti toga ipouho iro zuekhuf gu. Kozzabkin bob cizozwub alifasu cidbeb nasakho bi ovu woctep urofi tuolipo omizew veb jipju. Edo lajpedmi je popgujlaf giwloluw endijkoc ufakuzizi hefoso dukzod wagow po tikpih jekeh niko voj ridjoskil."
+  },
+  "apiKey": "1199c47f7e68aaa86e34eaccbd336d893ec2ce1528f768aed3e4869431129e98",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
