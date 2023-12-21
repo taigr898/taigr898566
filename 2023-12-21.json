@@ -1,0 +1,26 @@
+{
+  "name": "Carl Romero",
+  "age": 60,
+  "address": {
+    "street": "Wawwap View",
+    "city": "Ziemubo",
+    "state": "DC",
+    "zip": "32700"
+  },
+  "contact": {
+    "phone": "(457) 562-6317",
+    "servicePhone": "800626158"
+  },
+  "birthday": "1991-07-25T06:33:36.361Z",
+  "ip": "174.134.81.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Nazel carip reh cim vihfir midmecfa zuf uraficgo tafipcu vamajub zutvun toto zelgip lewgo odekufit kovun eko. Nuktuw cifbap aco ehe zukin nagaso juec ikcowec ahonuane seasadu vuz luduori age dabi muv zezmim uj sevruv. Apijused ilalop tomwomce wauvjur nu ajaga losol enubut zokhe vejodan tov zejuk mobdiz jon ze.",
+    "bio": "Domajkur vitja izgis okusihahu sertetje vormuvome je pa ni ac bob giede ane meodo at. Ohwi zabtufe rijteh voana wupus awakuh capunogag li amujod kesnub lo fadera ilapwi. Despihi tukoc dotfuc zidjefse puwi me riluju dedeezi fusbomhaz jigzufu tab fi."
+  },
+  "apiKey": "b6f2a1d12809ad5a136ba62755e745fad17c4e96116b8849b1a0740eb241db3f",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
