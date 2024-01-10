@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Simon",
+  "age": 45,
+  "address": {
+    "street": "Najfib Road",
+    "city": "Sobatzoj",
+    "state": "OR",
+    "zip": "38042"
+  },
+  "contact": {
+    "phone": "(646) 429-8878",
+    "servicePhone": "800477796"
+  },
+  "birthday": "1983-06-05T21:38:04.637Z",
+  "ip": "39.157.205.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Gamfa ginwatvo le wu zar jicezem hoc ivolupor ejju ilzebhof lare rafo sewperoha ov luddic. Wek jusini loslodsun zazcicer udsorbok fozkupuc luvkit kecoduj bag ud bagfi izowi. Zigoji pice godij cecejmem vogifdep meeb nerte se vaofoeve aju su ga.",
+    "bio": "Mumsuhur fub le muha fajput gezsuc za po bumzof vo bovkuc vocehumi wukif do jupicbe howohes udeava wirzak. Ek kusaznel hijut ajanu calun gevango pidatsus ceboal cov fu gaice lav beja. Diweho jiewib virsig lofavges uchan moawriz isobe becjirloj pofuw ni na tavi odugob copligac wulonoha cikuvna me nuniwaju."
+  },
+  "apiKey": "12ce4fdfdc02e9d22dc2806a54bf123d620eea2e8b651f667927a164b4aa4ee1",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
