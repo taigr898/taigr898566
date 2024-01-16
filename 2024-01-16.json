@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Cook",
+  "age": 24,
+  "address": {
+    "street": "Wicum Parkway",
+    "city": "Vihruda",
+    "state": "CT",
+    "zip": "67390"
+  },
+  "contact": {
+    "phone": "(701) 788-9980",
+    "servicePhone": "800392941"
+  },
+  "birthday": "1980-11-10T04:02:18.357Z",
+  "ip": "83.10.240.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Gozidu fi cizsebu jimwojog tomit hekemu tarnoj ite boga geim tohri gecticge facolpub gep soremlak gatlemu si. Pe odunifwu gu mob bisbi ec leipu ositi gawajovo fid siwlu mopjepka uzlakef ristuwa aticu cenle ehijieg. Modpuwgug kamnu wid fosad huluzapig luejfi keke va er hape baolofep sakiure biotivu. Bunetol fasiknel zof lu gituuma gek edaag devuot dafmadub de jegnecsef kiher lumpoh winimup.",
+    "bio": "Du opwesti uczo pa toukgew ip bilgop ud huggur ruga cas ido kouru ir we lobudzes. Rebo eh ce zacokhot nirol let curef tesvut hadazo gegih lej ewukip. Kohuwer zidza igeli bokcamceh ohocaszej ohope dih vow da voncocaf cuzoanu jiojefi wabfomla puwuro. Romet it le jawdo gu esusobe mibet fuvir ne camaso hojpeje eno ecate fiz ducdu joc. Ju ofe lo ob te fivbu zufulvof sidos ruj ehva suheman sinbe. Hevepa ali ri modu puvepnuh dak gut wabor noccup wec rusub kon letmudtu ze seuv upnup deskuk osleas."
+  },
+  "apiKey": "2eb3ebdf35e8731a91ac77613d5ebf3d529e6b10108dd84c371b645ad2a28353",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
