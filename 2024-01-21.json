@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Adams",
+  "age": 60,
+  "address": {
+    "street": "Ipuzuh Road",
+    "city": "Buzderih",
+    "state": "FL",
+    "zip": "60321"
+  },
+  "contact": {
+    "phone": "(215) 310-9696",
+    "servicePhone": "800275847"
+  },
+  "birthday": "1974-04-30T06:36:59.752Z",
+  "ip": "104.82.220.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Maeh loug kag lic cula ovocir deb ka sinadwaf wilegu an hedfab sacehod vu. Ge ne iwnuw jarve kudho zokopeg uho jamtos doje mivonavef vidi nac. Murow un ra epajimzol ejoral odiwuvbaw nej az jiju haoloke er congew or pebukpe dokeli ebcub ukovo. Lutru suz sogul kehu urderra bepso go fer cimel mikot zeawaof gof.",
+    "bio": "Ofelfi nivfozas uwhu fazuvdo fumuki vuro binkuk luoto da cinfozno niv faz eliumuge. Wuvzimufe aji kirmop podce odede cu kemhu fedi dapco vacutca vecu gaho zozis zurzu tauzedos. Or fijud daudape ruwinigo wega nec nolu ko ohowa rait ero romevaze dofle. Onjejpic dekwifmat so epe je upuwe lonolje jadcoz pub zap nuwildo nuder gikgipjuh nik gobevi zid."
+  },
+  "apiKey": "3bdd998c57be5ef99f704b0b5d6926edb62df728578aad404d122944468bcdc0",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
