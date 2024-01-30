@@ -1,0 +1,26 @@
+{
+  "name": "Scott Bishop",
+  "age": 42,
+  "address": {
+    "street": "Takil Street",
+    "city": "Upafutu",
+    "state": "KS",
+    "zip": "96620"
+  },
+  "contact": {
+    "phone": "(226) 303-6015",
+    "servicePhone": "800516374"
+  },
+  "birthday": "2003-07-28T19:34:47.582Z",
+  "ip": "124.30.95.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Badti bibri era uv vovo ri gagarzok je nit bies vomni zuvop. Simorur guhis puzid levvira akegoh vo foc ac pufiej gelo be wiw ukdak. Hejgihceg dih ujan jahgec fopel dembu vig ize hafviktuz arotecer nov oz vuj wenij em. Codcopgij soum kofigagif waidri judvi cu ike tocanjob bo ta opumawve matju ahisirru zenwetoci.",
+    "bio": "Vuje kemni wokak paba liwefopa civroula ulunonom wovcu jepo go sina se. Noina vilhuba wow dot jitri hemfav kikbiha nut tud wedda bu dewo kighif tuesugav difkihdu ju. Man bolegab fapintov fejtus ejviuwi vefuwobiz zafilel nimi se rimo es hed cowfak wis. Zut usoeme uglic inkojjo eveekku faiwatav fiteb je bi lusnig zitubra ko ohtihbi fop jiilara puvfilha wabrohaw. Vohazra ipubo voj hadcopju ka zef ovejoono ro cas lughah kipifa umesuz. Moz fovanol gitasug afilu nefkim letnihme riloho nec abomasi ubzupet sekijez kigno cosi po zodilu. Lazo ig banaluv refleej ukjir pad maz imo kiedpu jeba kinvebav uzhi ku zew lulrako capzorvo olu gifeluso."
+  },
+  "apiKey": "e3bf40e2f0bfd7004b92103152df65915f51c582e0b26b0e55a0830528ebd46f",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
