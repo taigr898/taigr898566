@@ -1,0 +1,26 @@
+{
+  "name": "Frances Barton",
+  "age": 62,
+  "address": {
+    "street": "Deraf Parkway",
+    "city": "Gulpive",
+    "state": "OH",
+    "zip": "41305"
+  },
+  "contact": {
+    "phone": "(645) 938-2589",
+    "servicePhone": "800612687"
+  },
+  "birthday": "1991-11-06T18:13:23.253Z",
+  "ip": "16.11.66.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Bose ejmida lino ilope rirezum vafboika herkecdis bew ep peptuzos pevgupe jooso zu za mo. Zagopba ja tuhog da dicebi je utu mowigjo hufdiw vaw lifip kuc um asu saek. Popmido fofi fo pirenu nogoeha joken bufwub ufube aw vorci ziw rovbon. Wuw anusakem zad gek servoh pafi somtulni obuoke nas nu octak beboza di zop da.",
+    "bio": "Jadob fasi fi kiew owdubnan iwakiaha wumaso docsoc vap he supe dig. Hawi afiketfi oreka oho wuace banrepzec nanpiktaf wapreg niblapiw vakanse epibahes bepuwlap rapcecvoj ocimeno. Foj zu tubeigo dizuk afver fibifan habcu loul resvecme imoisuta pufo gu ga dul rim uzarmag."
+  },
+  "apiKey": "0a07dbadac4bfd5eeb992418918e135d77655983d60a98dfad0c75e6d445ba6e",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
