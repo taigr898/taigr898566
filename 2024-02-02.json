@@ -1,0 +1,26 @@
+{
+  "name": "Jean Hampton",
+  "age": 65,
+  "address": {
+    "street": "Erdu Junction",
+    "city": "Vehuzu",
+    "state": "TN",
+    "zip": "77019"
+  },
+  "contact": {
+    "phone": "(806) 911-3180",
+    "servicePhone": "800685484"
+  },
+  "birthday": "1987-08-17T00:02:22.052Z",
+  "ip": "83.96.19.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozunisim doc saf fulciwib huf elzoproh wolra sakefa rid cirwe hoj livvejfo ijfule ha laat pef ojjup fe. Pecce univob wo guble fovvemba lohunol su votfajju wu etasi diggini huwinaho nesuv aw. Sa mapuwes dul adirulru usegesuh obu dif ekwa bafav vujup fenabuoli hanaaz geszonaz rut zezbu epetiphet vezhupbo nigekow.",
+    "bio": "Zesluz ahaojide bakuz donhebofi inmowo buslis ki zunog vof lofohne aritelve bekus ur gergica liko. Ge elsepag sefos mubveb levder pucwi iz wih hovofitig afzul uhfes hargo. Gur rofik fuf gigudo kahopje leecopo japibme if co liruko kobmupde nabanoare lic jif bofudeme ru ragfat oruzenmun. Legcem zu se sadka wal jakhi bew dafisugiz narewuwo vifpehco izugew hialecu. Soz gurhoj si fove uljud opafroc nacesfi pujunu kabrol poja genipvih mokhiboj aguvuma in. Kasuntuz nefkecce onecocka en uwboduba cojiuvi hivni jabwu ubutoaw jofgaer wiska fa."
+  },
+  "apiKey": "0bcfbf62d610c89d5263fc82210b3ca4b576265f69dfd709b6ace93dcf1e2b12",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
