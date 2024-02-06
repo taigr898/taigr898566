@@ -1,0 +1,26 @@
+{
+  "name": "Harry Davis",
+  "age": 59,
+  "address": {
+    "street": "Verdit Path",
+    "city": "Peotsa",
+    "state": "WA",
+    "zip": "81215"
+  },
+  "contact": {
+    "phone": "(541) 618-1174",
+    "servicePhone": "800513867"
+  },
+  "birthday": "1968-07-31T19:41:03.380Z",
+  "ip": "243.236.54.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Rikuseh sezuzo undaob demes lammugnoc usahit tiin taojihot ajo uneeci kafwa domtadi tap wujacubuc kiajuha sib. Sapetab hirgi gavvo dul hef huvdev coeg cosuh tevlil uwaja co peven oda. Bo fehfitju kofe dava jol now egewaw sitob veb ereceg tugfik cev petulzap roekobo di fof duvnocozi. Pak zuwwepve camownum cupogevak ruzkuvef kehioz noewpe nezujri ga pa pis ge gaubulu sosje lirabal ituvi.",
+    "bio": "Vuvota beula bipeog ve gusujme bum woc babe mo uwdufat mu mihog mes bow dofehog wetiwolu. Tog repib kutjumnip cirdina baah womacani eci nidofo ot basali ifi asi petiz ciz duf. Mad vavgiki ukcu ditda mu ije wifepkod fu nivakiz kosus juzzi sugbe lu uvofiwhe cupinov sug uzfip zu."
+  },
+  "apiKey": "186b46b91fc5a5e12a3a1b18c50cf3f7695e5625c95704d88bffb0bf3fcb864f",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
