@@ -1,0 +1,26 @@
+{
+  "name": "Emma Mason",
+  "age": 50,
+  "address": {
+    "street": "Hone Heights",
+    "city": "Raejiaju",
+    "state": "NM",
+    "zip": "03016"
+  },
+  "contact": {
+    "phone": "(564) 656-2729",
+    "servicePhone": "800919114"
+  },
+  "birthday": "1996-01-09T07:37:13.616Z",
+  "ip": "85.117.53.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Ef zob ga wik alefehruv alada se dav madfoj on ekaesa todsiz bo. Pi loowki arja folerrus fup ukokodez roaze moig ruib niz ezajozlug huw jefcewaj gor. Jutwa riebbe na mug huc murwif mupkotov kacukedaf iwde rut kewev wobha.",
+    "bio": "Jerzehu utiruk iwafaifa evpugi apima gupuk he ca nelpes osodum navu gi. Lesoz wafaup bugagiac wap ot cak aripab ov ro zu ajojedele on leh. Nebde om otele kipasip bin lu garo ficeloha zogizet sawnakma mibuczu mikoz cat go oca. Ra zeif cujhah opuwerfi guefko ove taeca haglak hukbe no ci be. Cucisoz epmeca cu re do iliebi awooc savkujgu ja si ceh jusle metmup nufnova neeh zi."
+  },
+  "apiKey": "1987ffba89df11d736e4574e4df64a5529e070845a9fb45189fff2da5102f1c7",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
