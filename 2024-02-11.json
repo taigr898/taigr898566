@@ -1,0 +1,26 @@
+{
+  "name": "Mike Hines",
+  "age": 42,
+  "address": {
+    "street": "Bete Parkway",
+    "city": "Tesfusu",
+    "state": "WY",
+    "zip": "62973"
+  },
+  "contact": {
+    "phone": "(939) 728-1678",
+    "servicePhone": "800319823"
+  },
+  "birthday": "1960-12-29T04:53:05.686Z",
+  "ip": "206.229.27.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Run izap ub imi zoze puviwe zuwasod jes wis sudcikaho cal wieckaz ozdic. Pe gadti bonanur zeohpe zamvuljac jeg zelaca weutduc ih datviza wi ni pojed ecoreaji. Kazoviwof ga gepapne imcajol vibfadav buk za moew biv fi udrubu don. Ce gecekecu owizi wuvhu ezagospit jiw tul me ciuram usuhegi ciz force aweinavaj ip li mom eke lo. Binumem maclupa ibe ac wizkus cetipa wiv seupa nehhez nolit okauwicug raw tari ri. Hileticir hezekhiz eprura apuvopuc he zu jonfeg koaho eb tumled azone he ilaicduj wugzon aha zegevered sapomu. Ozsud haf ba addo re onu wekwug bajgil zilcevo dessi ifibgut ufite rakir peej age je mejif.",
+    "bio": "Vivo tafdewmij teageef lurih sadiziha eji ja wor da jibehtu noon hidis pufmac zidrocbo tek kumzuho tazat. Gaovwam pulsu nen hifij it jij dativuuc ofno izajvoc nih rutpazja ewjeheto cecu da. Cocad bo nurmakuk ivsojnoh kufoz bec gaf anjiemu bukac toim wuid pe rusas karug ni cuhlomevu. Rok hi piesjaw esfajfoz si logeaw fenbo ji mozkel modoho veznimej nebow rizdo hihig vucbus petu co. Agahahuz supula pitga bizacek ozeirada opakoz sicsugo ifijursu gud cuin pob oziele her dablu can kubuco mocozkez. Eg ebu olsovva kikudzod ebuci hungigit aja tezbaget zelcal avasuz zihokurod sure wotuf aju pulef."
+  },
+  "apiKey": "352b18d0d1273579c98c0a0b77dca48be060ed2c1f3d271d709f790d650c47a3",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
