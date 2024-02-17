@@ -1,0 +1,26 @@
+{
+  "name": "Mina Gomez",
+  "age": 65,
+  "address": {
+    "street": "Dirpad Square",
+    "city": "Zatketo",
+    "state": "SC",
+    "zip": "26810"
+  },
+  "contact": {
+    "phone": "(365) 313-7716",
+    "servicePhone": "800568678"
+  },
+  "birthday": "1973-04-09T19:15:46.633Z",
+  "ip": "209.87.48.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Gazaif pezag hobizoji kovbo ruchev jasopna wepuk irago decekwen ce fahsevweh corkej roros. Faic jibje ebji vuse emowu bekfajub imasohgem ublo pa evuawimis gaca dijgeburi. Ma javo vuic in waecilah nal ja wamugpis rervog batlaw pu limzed. Cavfil pil vofuulu omorow fusuhumuj mubseom ho fuka do ota rerfoz odwig fud. Voki cuk ba lef gavbihker be ako gididub eko tabo ivo migdimuma daolu umoretjuz ufhag. Cowjadlow haz wadnudne va omo zih dece witil mec el su miwe bacomu bu oza. Zelen ri cuhwalsuz lojumu afsozi iw kuiw zit rud debus ciji ohisus epihig.",
+    "bio": "Bawzu vaja esehuuj afojo hale wegamrat vidop waaca fazturvi vognomek vatip wenoffaf. Ikluw ruhiv geube orofiwo wuzo fidpu sabmihgum hi zirfeci huzudfop ko mab caretes nub ibizuspak sofperum. Akvaj wemiwac sovjuj ma bi sotina tigaen ifre radacwut va gi ikaim appeswit tuwu. Lop jadag laaso ignoncen vu gozgep eddib ki cu ju dul bup aciha se pi neogado. Tobfucof enu pupuk evmajiwi je feiw coj huihe rafmo ku bi zamopa ji. Muz cuha potismew fi vubof ba kod zov cibnuv vozicfo gat bulzagfe re goarelas nu. Fofe so gudbauri ul idikan wareos fuz wa zo wucag uhapu niro kug tef rav vum."
+  },
+  "apiKey": "568a05cc49bfb28dda8753ae4e74f244482b24add324a4b8f47777c89de44314",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
