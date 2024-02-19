@@ -1,0 +1,26 @@
+{
+  "name": "Allie Reynolds",
+  "age": 22,
+  "address": {
+    "street": "Erouj Square",
+    "city": "Cusokga",
+    "state": "OH",
+    "zip": "62064"
+  },
+  "contact": {
+    "phone": "(344) 697-6304",
+    "servicePhone": "800584676"
+  },
+  "birthday": "1960-12-18T01:02:29.968Z",
+  "ip": "242.233.251.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Zak ku nus kon viji rusnuduf pofaob endate femoci efhi dowawaup zudmu veuco rewireb ifgofnub ini. Ira ijo wajicfo vecdeni eke pu nak ta oci dirjofval gisur origoib ketu citot sav. Jut ogehe beisutek dojoci labwojsol ku labca komo ote bubtod oh zi gek uhurju. Diz desdapkab pihveb wi woubu wi if vitakpo nozni sari mucebu ejunur nevuc.",
+    "bio": "Op za ecu woretke kumep uznecvo od ur zemo zivof jov anohobhe epihafcis. Uttac to ocagu corcozpe mar bicci lumetow koreve davfem artellu dejev gamzu cuno uje igako zoebzej. Gibwic fabturla rup ujebop isoho we fo ditpu haz ovaba mag gohagi eme ak cafhecga."
+  },
+  "apiKey": "25ca43847c8bdfcdfc7b9aa46936009548c0d73342af2501619ce5525c4a8575",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
