@@ -1,0 +1,26 @@
+{
+  "name": "Gilbert Morgan",
+  "age": 43,
+  "address": {
+    "street": "Uhuot Road",
+    "city": "Dignulre",
+    "state": "NE",
+    "zip": "62593"
+  },
+  "contact": {
+    "phone": "(377) 732-7394",
+    "servicePhone": "800292123"
+  },
+  "birthday": "1980-09-02T18:16:36.100Z",
+  "ip": "238.60.86.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Anaw sowbod izearho azoome su doje paugo heztem cavuh fesit izi kuf av cu wupoza finja na. Dac doomi uk raih hivovlar si vezi munvivroh nacda badu udbeh hokuk ze jomdoc. Dot itapu hi itba ko so ve dah fa vib mepomu tusopa ono ta. Tiz mivam rem ehu aje cop dus subaj mapfec nini fizvik zirubos jipma daldiwuwi pir.",
+    "bio": "Lil ser ki ter lewciz gij laucuh zi wefi vuzmacrum fam ze bih jusosza icne. Cemuvif so gikappon afi ci zigtam ac tenudisuc web apa ufudaw kuwe jim kosis wec ni furfezve. Ji ukoivu lic cenvo nuhe jelimit pegajwu obofizlog wud anu avosime le. Ugi aro wahlajtit kuv te ruve ceznitek jok lacezke eljut tiliz zungo sahopa udpin if nonriv. Zahem ij daupwe helageh suvlumuj veg agusevu kicwumet tawadvu dodpijed lezazga le epa ecoki. Roso cucdevpa rikelak avuvij fepnewme medcuef sa gibkahhu cuada hu biapi eho gizvi."
+  },
+  "apiKey": "60597c76561b704ee6e47307f4e98cad0c5690673db9c54decf72e76725cb2c4",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
