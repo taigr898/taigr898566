@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Herrera",
+  "age": 22,
+  "address": {
+    "street": "Niwo Drive",
+    "city": "Teebene",
+    "state": "FL",
+    "zip": "79656"
+  },
+  "contact": {
+    "phone": "(675) 754-3170",
+    "servicePhone": "800173428"
+  },
+  "birthday": "2004-07-20T22:33:20.596Z",
+  "ip": "195.166.193.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Herbalbu dojep biv ceget jo viziol caz si juclugi ahoimu wegifodod hahi cit. Tus heh hop cah ke sivfakde zaveb simer tiramon mijihi rapvuv loge ijebo sogav icivihiv. Vo ceopi fus se asurubu natu je fan reinohop latbo asa un.",
+    "bio": "Rih biwuci gawsoz duzwa cebbevem sapuer jo dawtizin viibilad numvufcug ofiuputac hucfeteg najoboh giw zarahe zeomvef haeke. Fuubo jujbe raz atzi dudivvok jof cinnad aku go ruga kezvo okirupzev gugize rupkopkol tav gifele. Ka sibtud af mofo ewkuh tapfifwi baz wecuctig wodi ilovavo atlo luki siteda japowo jacanka wud. Wuconku ri rugem carmeabi jujhotrip etehuz faewfo gu az ofefe sensahtak kairke kocsa. Tahlan fekoce vic comoh zuvelco noj of favez kelfin tevu avapu luntolsem. Duh hazsapza lujuse cas dilikene kesi gekum hespud nicewbud asipe ha ovtilok lak ade mu hepeco jenra ciod. Eti an mocevpog uwzifzu coh mewpoho po warig wabsoheb kilojduf mar doz am aciimo juseiku heddefve."
+  },
+  "apiKey": "cee52cd6481d16f9f935681f862e5b07779c16cf7ecd836cdfa4508e802af6b3",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
