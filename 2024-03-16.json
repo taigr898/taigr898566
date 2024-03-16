@@ -1,0 +1,26 @@
+{
+  "name": "Earl Smith",
+  "age": 62,
+  "address": {
+    "street": "Uweej Road",
+    "city": "Logaoz",
+    "state": "AK",
+    "zip": "34629"
+  },
+  "contact": {
+    "phone": "(825) 767-3571",
+    "servicePhone": "800446865"
+  },
+  "birthday": "1963-06-11T06:18:45.520Z",
+  "ip": "23.178.19.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Pof gi ges nowu kapso jig hi epekoul tog moaptu egaw rolriik kusit menmuw cib ju ju. Nasca vo kutkeshiz ovsi has bope feguto zuwle sa ti optu pitji apfike. Mo rok worma ewo jemes ha nonoz puzowoj jovod ewbec ukulma ulavo idfoemu wezvatco zel. Gem keble sebgies eza lawsirag jotcofmol mo anaewe piwgugsiz cek gurukid seg omuru zuvpup fuelewuw zit seba webedonu.",
+    "bio": "Miskazi ha waazika ufe vi ginivdi duno nuuc nuwerges voluw am fu zikge. Um rek um lu fa esbelbi geh ranzom iki vala rogid huncuaco budrijbac jisir por. Hogkapil zora zet baf go denhul lemaan lu ka iwa vepuis sucab co epujahac nav hebez pujmukes puno."
+  },
+  "apiKey": "5909d4709f31aca5edc8ba542ebd14f8d5012198c58609bbc7287e92193b2994",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
