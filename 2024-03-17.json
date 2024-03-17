@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Paul",
+  "age": 21,
+  "address": {
+    "street": "Nuur View",
+    "city": "Deegotu",
+    "state": "TN",
+    "zip": "72201"
+  },
+  "contact": {
+    "phone": "(500) 267-5397",
+    "servicePhone": "800564479"
+  },
+  "birthday": "1976-01-25T21:25:05.481Z",
+  "ip": "213.200.128.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Riwhul fu ha atuoldoh zo dul voafiic ta usi keket pomipe gacuug uwjozfen fuzezi reju rava hopiv. Le naeza ozi mu bemiter dadsef hu fopvavcu epo wid pamcur tegnu gucdictaf pubisuh nuf. Zih lopoba upiama ajaazar va neom co ug urugot dinah sadzap kuhi pab cemupaf azisip jar ma.",
+    "bio": "Ekujaugo zap pu hab tizun regcid songir bogtebrir wesed pes biluz wunoduc tevod. Du igi litfaj cecejzod nukjonfo pucew ga tebloos gol fipjab zuz ir mofkiha. Ehlate ohozu su mo ri tijsafur hizi ronilzuw mu volze dospeg cuc begapu wug luocobi firatenu."
+  },
+  "apiKey": "c292e672f7745abf0c000605064af1137e7ccce1eefb03e004cae931153df902",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
