@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Colon",
+  "age": 45,
+  "address": {
+    "street": "Dewev Center",
+    "city": "Rolonaemi",
+    "state": "OK",
+    "zip": "05520"
+  },
+  "contact": {
+    "phone": "(810) 397-7630",
+    "servicePhone": "800526639"
+  },
+  "birthday": "1992-03-14T10:31:08.188Z",
+  "ip": "58.105.245.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Ana cescinec dif jebgavbik gugtu bodi hifvo lev cekubrar kuwofi wa jupficka huvvin cuc moaru niwwar avino. We bude rozo je nidi waujifuj ata hife julawpos jeaggug buze vuco beppies ufga sofsekel ge pivzawec. Wiup ubkondum ul gukwoil haleobo bi temkovi man vir omjap cejobi vidbuljaw mo vanda. Rappoc wa harsun holbu ogizedo wah fohbid deb dazoc pibbo zi ne tem ewukigid ransukdi nonur.",
+    "bio": "Tu soju jak ujcicwuc un mo nicfa jef eroca vutos en saure cofuk ifmosnop. Re kodnuwa jimfe ro mo koklujig ila ekjake ute zowgi onuisi gavu litaplaz basri mi vo lu. Vi dela nonu tezuroz fowawa noemi ibosaaf ri imi ifo cavot lakgaszim pel velru bakohe zebfeweh kubgefaj."
+  },
+  "apiKey": "15f05ef1cec8b6223893461809d02e8377bf64d1d07b90414586e442c863ea01",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
