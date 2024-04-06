@@ -1,0 +1,26 @@
+{
+  "name": "Jerry White",
+  "age": 31,
+  "address": {
+    "street": "Wucur Lane",
+    "city": "Wocibhe",
+    "state": "CA",
+    "zip": "08048"
+  },
+  "contact": {
+    "phone": "(779) 688-3270",
+    "servicePhone": "800687527"
+  },
+  "birthday": "2004-04-21T09:13:45.174Z",
+  "ip": "46.30.126.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Awa ime bumigga falnasa racod sez cisu walcuwaj dacsi mawdimo dodwi ibted nozfecsu ka bah afesez ruc. Viva mamoso ipuso bujuib reojecu mu wefigobuh jesa ha ta luvenedo kepejbe ob onewa mapah ki woz azi. Wawcozjis zep imoupir igi wapakuwe vines ij sadzo iceode ca zuk jejzili.",
+    "bio": "Rezsuh mi pisuw gi pufov uz la jihurpal louhjiz huh wib fetagleh doipcoh jecjege. Ak ibaf nojodaz acrorci wew cofo cegetwiv lej tilaz lubeca dosaw jas ruv keh ec. Ujatiji jes nej giwajji vedenvi suzuzzuh uvro tinohfit ralje zud wekdi getwud. Fesmi evlirnid besnovdi mimwal beoldoj forazu muw gan nabzu vigkov taza kete vic lo wid utiic erufi."
+  },
+  "apiKey": "6798b3bf7445eaff1371eb42626c2f099798146ede01c572999e576835ebb369",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
