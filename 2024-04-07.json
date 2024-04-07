@@ -1,0 +1,26 @@
+{
+  "name": "Calvin Carter",
+  "age": 32,
+  "address": {
+    "street": "Zudon Turnpike",
+    "city": "Pokrore",
+    "state": "WA",
+    "zip": "88715"
+  },
+  "contact": {
+    "phone": "(389) 239-4605",
+    "servicePhone": "800597383"
+  },
+  "birthday": "1977-02-09T22:24:38.567Z",
+  "ip": "12.90.46.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Daf fot taozzov haj te gi ner usu nideimi utuvar nofzaefi zi. Mivof fino godoziso puslane oh cidpajnu kospiwwih gad lofisza subow debotgeb lahpofi on rapikzat weiv. Sucuj kota hi lerwok urinekul cecdas enmiv wewge obabaloc pis of hifoz.",
+    "bio": "It bo nud bespe ke semja buknuniw riamofat esafa zufjewjiw kohi si pah tudod. Ibin ahhadroc etoobo wawbaf zod ebi upcuv izbaisi lufic hekuk ze fetorewa wiwazo. Wi sotco uwu zevzuut dif epo jinpore letu irumeni ukiguc zagde limronul no nub uh. Zowisu emba fu wan ketpawa uveojpuv ezoke pufti ovmanber olleod goz camnij ehida ub bud hah baog."
+  },
+  "apiKey": "c0a5b85b2f32af16f70af59931264849b0d5171e17eb4d956bb5723890ee5652",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
