@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Yates",
+  "age": 41,
+  "address": {
+    "street": "Cujec Path",
+    "city": "Litrobok",
+    "state": "WA",
+    "zip": "69960"
+  },
+  "contact": {
+    "phone": "(282) 691-6799",
+    "servicePhone": "800712419"
+  },
+  "birthday": "1987-03-15T10:00:21.121Z",
+  "ip": "55.129.28.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Nop vij jab momosjuc vagzit vum zew ejagor otodubdi je mihmu feg volna cihwodris nuokvu. Veka toj et kupjaf aleiteso ze naleehi voah wono cec cipore mojge tovol najak. Usi zo ke kij sorafeobu few simlawtid ne netkuj re necati wez bodocri evezetpi anuvbew edhebade adadev dimzerobe.",
+    "bio": "Hutozziw us wolewmu vubecaz ovauva uno humitoco ozaho aju weseub ula rom. Lafedi fu guk jaiko upe ezumulo sun el etudi gismuw ikfetbag tub vo zuhovoj olasuup zunanel buwre. Defmub mab wec teplam kaksupmi kecavco re teclogda baselhu piprol ifucef gudgap pov nanwe. Wek ne ta tenseb cahuw bifsocji fes tif pojes gigelleh ha dibaoji arebebki oziro oho vu tofeho venevgo. Fomuk riztucuk ha faz ze tiru toc lo vecuhced edculpa luzumge varum. Acivahmo kovzug voukoege rurmuf mija duh rardaf nigderjak gubipci tamcif bozil sezvo jasedib usfuv zu he zekivgo avabamah."
+  },
+  "apiKey": "fcb1b8f4bbbc2e2cbd793e26618c27379cc367eb1924779005721488d2ccffd9",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
